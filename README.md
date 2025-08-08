@@ -61,8 +61,8 @@
 <h3 align="left">📊 Моя статистика на GitHub:</h3>
 <p align="center">
   <!-- ❗️ ВАЖНО: Замените YOUR-USERNAME на ваш никнейм на GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&locale=ru" alt="Статистика GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Msakhibullin24&show_icons=true&theme=tokyonight&locale=ru" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msakhibullin24&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" />
 </p>
 
 <!-- 💡 СОВЕТ: Не забудьте добавить репозитории с вашими лучшими проектами и закрепить их в профиле! -->

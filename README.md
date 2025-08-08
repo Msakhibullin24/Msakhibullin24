@@ -12,6 +12,9 @@
 ### cv
 ### nlp
 ### llm
+### mlops
+### microtik
+sysadmin
 ---
 
 

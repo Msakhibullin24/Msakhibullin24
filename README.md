@@ -78,7 +78,7 @@
 <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:msakhibullin24@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 </p>
